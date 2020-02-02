@@ -1,0 +1,20 @@
+{
+    "residence": {
+        "floors": 7,
+        "count": 2,
+        "groundFloor": 0,
+        "topFloor": 6,
+        "elevatorSettings": [
+            {
+                "id": "A",
+                "ground-floor": true,
+                "top-floor": false
+            },
+            {
+                "id": "B",
+                "ground-floor": false,
+                "top-floor": true
+            }
+        ]
+    }
+}
